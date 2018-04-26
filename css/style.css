@@ -1,0 +1,14 @@
+html, body
+{
+font-family: 'Yeon Sung', cursive;
+background-image: url('../img/leather_1.png');
+}
+#searchTerm
+{
+  margin: 25px;
+}
+a > img
+{
+  width: 200px;
+  height:200px;
+}
